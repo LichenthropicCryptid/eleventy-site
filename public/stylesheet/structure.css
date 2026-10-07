@@ -2,3 +2,15 @@ html {
     background-color: rgb(107, 39, 39);
     color:rgb(220, 195, 165);
 }
+body {
+
+}
+main {
+    background-color: rgb(88, 30, 30);
+    border: 5px ridge rgb(115, 112, 112);
+}
+h1,
+h2,
+h3 {
+    text-align: center;
+}
