@@ -9,9 +9,14 @@ main {
     background-color: rgb(88, 30, 30);
     border: 5px ridge rgb(115, 112, 112);
 }
+header,
+footer {
+    background-color: rgb(88, 30, 30);
+    border: 5px ridge rgb(115, 112, 112);
+}
+
 h1,
 h2,
-h3,
-footer {
+h3 {
     text-align: center;
 }
